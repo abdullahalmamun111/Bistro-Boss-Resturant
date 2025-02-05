@@ -1,8 +1,9 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/VcQyR41/image.png" alt="Banner Image" height="500px" width="100%" />
+  <img src="https://i.ibb.co/VcQyR41/image.png" alt="Banner Image" style="width: 100%; height: auto; display: block;" />
 </p>
+
 
 
 # 🍔 Bistro-Boss - Your Ultimate Food Destination
