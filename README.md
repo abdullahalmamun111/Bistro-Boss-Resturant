@@ -1,9 +1,15 @@
+
+
+<p align="center">
+  <img src="https://i.ibb.co/VcQyR41/image.png" alt="Banner Image" height="500px" width="100%" />
+</p>
+
+
 # 🍔 Bistro-Boss - Your Ultimate Food Destination
 
 ### 🌐 Live Site: [Visit Now](https://react-auth-integration-2a514.firebaseapp.com/)
 
-### Demo Image Of Website
-![Homepage Screenshot](https://i.ibb.co.com/VcQyR41c/image.png)
+
 
 ## 🔑 Admin Credentials:
 - **Email:** demo@gmail.com
