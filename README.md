@@ -1,12 +1,7 @@
 
-
-<p align="center">
-  <img src="https://i.ibb.co/VcQyR41/image.png" alt="Banner Image" style="width: 100%; height: auto; display: block;" />
-</p>
-
-
-
 # 🍔 Bistro-Boss - Your Ultimate Food Destination
+
+<img src="https://i.ibb.co.com/nsz9XpjW/image.png" alt="Matrimony Hub Banner" width="100%" />
 
 ### 🌐 Live Site: [Visit Now](https://react-auth-integration-2a514.firebaseapp.com/)
 
