@@ -1,8 +1,39 @@
-# React + Vite
+# 🍔 Bistro-Boss - Your Ultimate Food Destination
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🌐 Live Site: [Visit Now](https://react-auth-integration-2a514.firebaseapp.com/)
 
-Currently, two official plugins are available:
+## 🔑 Admin Credentials:
+- **Email:** demo@gmail.com
+- **Password:** Admin@123
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Website Features:
+1. 🍕 **Wide Variety of Foods** - Enjoy fast food, desserts, coffee, and more.
+2. 📱 **Responsive Design** - Fully optimized for mobile, tablet, and desktop.
+3. 🛒 **Online Ordering System** - Easily order your favorite food online.
+4. 🥤 **Category-Based Filtering** - Browse through different food categories.
+5. 🛍️ **Cart & Checkout System** - Add items to the cart and place orders.
+6. 👤 **User Authentication** - Secure login and signup system.
+7. 🌟 **Ratings & Reviews** - Leave feedback and read customer reviews.
+8. 🔥 **Trending & Featured Items** - Highlighted top-selling dishes.
+9. 🏪 **Restaurant Information** - About us, contact details, and location.
+10. 💳 **Secure Payment Integration** - Multiple payment options available.
+
+## 🚀 Technologies Used:
+- React.js
+- Firebase Authentication
+- Tailwind CSS
+- MongoDB
+- Express.js
+
+## 🛠 How to Run Locally:
+1. Clone this repository: `git clone your-repo-url`
+2. Navigate to the project folder: `cd project-folder`
+3. Install dependencies: `npm install`
+4. Start the server: `npm start`
+
+## 📩 Contact & Support:
+For any queries, feel free to reach out at **support@Bistro-Boss.com**
+
+---
+💖 *Enjoy delicious meals from the comfort of your home!*
+
