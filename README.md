@@ -2,6 +2,9 @@
 
 ### 🌐 Live Site: [Visit Now](https://react-auth-integration-2a514.firebaseapp.com/)
 
+### Demo Image Of Website
+![Homepage Screenshot](https://i.ibb.co.com/VcQyR41c/image.png)
+
 ## 🔑 Admin Credentials:
 - **Email:** demo@gmail.com
 - **Password:** Admin@123
@@ -26,8 +29,8 @@
 - Express.js
 
 ## 🛠 How to Run Locally:
-1. Clone this repository: `git clone your-repo-url`
-2. Navigate to the project folder: `cd project-folder`
+1. Clone this repository: `https://github.com/abdullahalmamun111/Bistro-Boss-Resturant.git`
+2. Navigate to the project folder: `cd Bistro-Boss-Resturant`
 3. Install dependencies: `npm install`
 4. Start the server: `npm start`
 
